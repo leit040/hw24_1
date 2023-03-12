@@ -1,3 +1,5 @@
+package ua.hillel;
+
 import java.util.Random;
 
 public class MyMath {
