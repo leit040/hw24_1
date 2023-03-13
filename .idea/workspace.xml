@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35f1010e-bd6c-4d96-8010-1094963c3426" name="Changes" comment="jar">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MyMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hillel/MyMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/META-INF/MANIFEST.MF" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/leit/JavaLearn/hw24_1",
+    "last_opened_file_path": "/home/leit/JavaLearn/hw24_2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -81,6 +80,7 @@
       <workItem from="1678216110815" duration="1275000" />
       <workItem from="1678548290886" duration="705000" />
       <workItem from="1678637155180" duration="724000" />
+      <workItem from="1678638570198" duration="293000" />
     </task>
     <task id="LOCAL-00001" summary="final">
       <created>1678014383980</created>
@@ -103,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678016834106</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="jar">
+      <created>1678638832499</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678638832499</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
